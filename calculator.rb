@@ -1,1 +1,1 @@
-first_number = log10
+first_number = 10
